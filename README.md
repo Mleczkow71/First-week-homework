@@ -1,5 +1,5 @@
 # Homework-assigment
-FinTech Git assigment due Thursday 24 March by Anita Januzek
+FinTech Git assigment due Thursday 24 March by Anita Januszek
 
 ---
 
